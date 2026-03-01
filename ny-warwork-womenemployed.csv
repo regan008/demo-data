@@ -1,0 +1,697 @@
+region_number,firm_name,women_employed
+440,New York Tel Co,20478
+041,NY Tel Centr Div,2682
+601,N Y Tel E Div,2834
+041,Central N Y Power,355
+U.S. Civil Serv. NYC,War Dept N Y Ord,1311
+041,U S Engineers,182
+001,John J Chaloux & Co,72
+001,Consolidated Car,76
+001,Ramsay Chain,22
+001,Mc Donald Works,123
+001,Simmons Mach,14
+001,Magnus Metal,26
+001,Albany Castings Co,21
+001,General Aniline,175
+001,Dorns Trans,11
+001,J Vogel,9
+001,United Traction,43
+001,Vorhsville Bldg & Reco Depot,210
+001,Albany Felt,418
+001,Tobin Packing,181
+001,F Jacobson,213
+001,F C Huyck,400
+001,N Y Pow Light,204
+001,Albany Engineering,205
+001,N Y Tel,839
+001,Fort Orange Paper,120
+001,Embossing Co,58
+001,Bayer,880
+001,N Y Cent System,21
+001,B T Babbitt Co,134
+001,A P W Paper Co,155
+001,N Y Central R R Co,78
+001,NYCRR Pass Car Dept,31
+001,N Y Centr R R Co,28
+001,N Y Centr R R,20
+001,D H R R Co,284
+001,N Y Centr R R Co,14
+001,Rway Express Agency,6
+001,NYC RR Maint of Way,15
+003,Sandy Hill Iron,47
+003,Champlain Spinners,305
+003,Imperial Paper,180
+003,Clark,282
+003,G E Co,456
+003,Natl Lead,7
+003,F Pruyn,26
+003,S Thompson Paper,90
+003,Union Bag Paper,453
+003,Rotary Shirt,222
+003,McMullen Leavens,459
+003,Finch Pruyn & Co,
+003,D H RR Corp,3
+005,G E Schen,8653
+005,Amer Locomotive Co,816
+005,Schen R R Co,19
+005,Internatl Paper,137
+005,Wilson Athletic Gds,102
+005,Mica Insulator,210
+005,Naval Supply Depot,687
+005,Army Ser Forces Dpt,1084
+005,Ballston Knit,230
+005,Van Raalte,403
+005,Gloversville Knit,114
+005,Harder Refrig Corp,5
+005,General Electric Gen,2289
+005,Inspector Naval Mat,217
+007,Alleg Ludlum,104
+007,Gurley W & Le,14
+007,Ludlow Valve,24
+007,Adir Fdry Steel,83
+007,Rep Steel,5
+007,Renss Valve,18
+007,Ford Motor,31
+007,Colasta,115
+007,Specialty Insulating,14
+007,Noble & Wood,96
+007,Watervliet Arsenal,3015
+007,Behr Manning Corp,1480
+007,Huds Mtr Fr Ser,7
+007,Beaurit Mills,194
+007,Mohawk Paper,38
+007,West Va Pulp,96
+007,Cluett Peabody,2406
+007,Fitz Bros Brew,14
+007,Royal U Garment,194
+007,Buchman Comfort,255
+007,Ford Mfg,205
+007,Huds Fuel,15
+007,Hughes Autogph Br,604
+007,J A Manning Paper,42
+007,Fuld & Hatch Knittin,244
+007,F Jacobson,348
+007,M Nirenburg Sons Inc,254
+007,Wrights U Wear,147
+007,Berk Ray,409
+007,D&H RR Colonie,30
+007,D&H RR Mechanicville,7
+007,B&M RR Trans,21
+007,B&M RR Track,
+007,B&M RR Engine House,28
+007,B&M RR Freight Dept,1
+007,D&H RR Green Isl,7
+007,Natl Auto Fibre Inc,115
+010,Amer Valve,22
+010,Catskill Metal Wks,12
+010,V & O Press,12
+010,Gifford Wood,26
+010,McCall Refgr,7
+010,J A Carman,1
+010,D Julliard,153
+010,Universal Match,109
+010,Universal Atlas Cmt,7
+010,No Amer Cement,3
+010,Lone Star Cement,1
+010,Mohawk Novelty Co,204
+010,Athens Mfg,177
+010,Imp Life Boat & Dava,75
+012,Electrol Inc,98
+012,C Hilterbrant D D,2
+012,Hercules Pow,675
+012,Ulster Knife Co,77
+012,Island Dock,4
+012,Adir Tran Lines,29
+012,Cantine Martin,64
+012,F Jacobson,226
+012,J S Fuller,205
+012,Radio Corp of Amer,287
+013,Standard Gage,131
+013,Sedgewick Mach,36
+013,Fed Bearing,342
+013,Schatz,83
+013,Frederick Hart Co,103
+013,De Laval Separator,419
+013,Trussell Mfg,27
+013,I B M 4,357
+013,Cent Huds Gas Elec,192
+013,Dutchess Bleachry,124
+013,Dutchess Royal,244
+013,Consol Cigar,168
+013,Ind U Garment,182
+013,Seltzer Seltzer,309
+013,U S Hoffman Mach Co,228
+013,Glenwood Clothes Inc,169
+013,Johnson Rubber Co,
+014,Monticello Lumber,
+014,H Leon & F Mc Bride,3
+014,Gillinder Bras Inc,6
+014,Vancanson Silk Mills,55
+014,N Y Rubber Co,95
+014,Columbia Mills (cont.),203
+017,N Y Rubber,304
+017,Coldwell Lawn Mower,16
+017,Dutchess Tool,18
+017,Green Fuel Econ,12
+017,Amer Felt,19
+017,Newburg Tran,4
+017,Dupont De Nemours,71
+017,Firth Carpet Co,207
+017,Harmony Bag,153
+017,Natl Biscuit,121
+017,Lewittes,10
+017,S Stroock,155
+017,Sweet Orr,225
+017,Aero Leather Coat,158
+017,Eureka Shipbldg,70
+017,P L S Mfg,208
+017,Perry Sportswear,189
+017,Texas Resch Lab,174
+017,U S Army Air,158
+017,U S Military Academy,380
+020,Utica Drop Forge,90
+020,Amer Emblem,123
+020,Bossert Co,89
+020,Utica Cutlery,279
+020,Savage Arms,302
+020,Utica St Eng Boiler,4
+020,Powell Muffler Co,11
+020,Utica Gen Job Fdry,4
+020,Utica Rad,49
+020,Brunner,13
+020,Utica Struc Steel,4
+020,Internatl Heater,11
+020,Oriskany Mal Steel,2
+020,Dunlop Tire,318
+020,Hart & Crouse,6
+020,Foster Bros,108
+020,N Y Mills Julliard,513
+020,C A Durr,63
+020,Oneita Knitting Co,793
+020,Skenandoa Rayon,182
+020,Utica Knit 1,247
+020,Utica Knit 2,250
+020,Utica Knit 6,165
+020,Utica Cotton Mills,511
+020,Utica Willowvale Bec,213
+020,Harrocks Ibbetson,470
+020,Augusta Knit,152
+020,N Y State Rways,31
+020,Ft Schuyler Knit,118
+020,Gould Paper,5
+020,Sitroux,119
+020,Waterville Textile,132
+020,Kerk Guild,157
+020,N Y Tel Co,292
+020,Oneida Bleachery,86
+020,N Y Central R R Co,236
+020,Rhoads General Hosp,535
+020,Railway Express,1
+020,Globe Worsted Co,324
+020,Utica Tube Works GE,177
+020,West End Brewing Co,109
+021,St Joseph Lead Co,4
+021,Universal Explor,
+021,Jones & Laughlin Ore,
+021,Clifton Ore Mines,
+021,Standard Shade,
+021,W H Loomis Tale Co,87
+021,Cleveland Container,531
+021,Newton Falls Paper,34
+021,International Talc,11
+022,Alum Co Amer,484
+022,Consol Slipper,397
+022,St Regis Paper,17
+022,Racquette Riv Ppr,31
+022,Elliot Hardwood Co,3
+022,M P Hawley,
+026,Sheridan Iron Works,5
+026,Pal Blade,385
+026,Rep Steel,3
+026,Berst Fors Dixfield,253
+026,Imperial Paper,24
+026,J & J Rogers Co,33
+026,International Paper,93
+026,Republic Steel,3
+026,Oval Wood Dish,173
+026,Coop G L F Forest,63
+026,A Mason & Sons Inc,10
+026,D H RR Co,10
+030,Westmoreland Mal Ir,2
+030,Camden Wire,96
+030,Genl Cable,1923
+030,Revere Cop Rome Mfg,368
+030,Revere Copper,421
+030,Nolan Mach Corp,55
+030,Rome Strip Steel,2
+030,Rome Cable,753
+030,Union Fork,298
+030,Rome Air Depot,3328
+030,Ed Comstack Lumber,3
+031,Wescott Chuck,
+031,Line Material Sales,12
+031,Diemolding Corp,26
+031,Smith Lee,73
+031,Co of Mastercraftmen,130
+031,Oneida Ltd,247
+031,Oneida Ltd Canastoda,851
+031,Oneida Ltd Canastoda (2),67
+032,Union Fork,48
+032,Remington Arms,264
+032,Standard Furniture,62
+032,Remington Rand 1 Plt,737
+032,Remington Rand Inc 2,451
+033,Cherry Burrell Corp,107
+033,H P Snyder Mfg Co,27
+033,Arkell Smith,81
+033,Beechnut Pack,1451
+033,Luxuray Div,228
+033,Natl Autotve Fibre,228
+033,Gilbert Knit,185
+034,Curtin Hebert Co,1
+034,FJG RR Co,10
+034,Upstate Tel,197
+034,Alexette Glove,262
+034,Crocetta Bros,150
+034,Fownes Glove,173
+034,L Swears,166
+034,Bormans Sport,135
+034,G Levor,4
+034,Gloversville Knit,49
+034,Superb Glove,150
+034,Genl Dry Battery,357
+034,Kel Kold Co,22
+035,Collette,142
+035,Amsterdam Despatch,8
+035,Bigelow Sanford,755
+035,Chalmers Knit,263
+035,Mohawk Carpet,1631
+041,Air Cooled Motors,400
+041,Syra Chilled Plow,10
+041,Brown Lipe Chapin,685
+041,Crouse Hinds,432
+041,Crucible Steel AM H,225
+041,Crucible Steel AM S,131
+041,Lipe Rollway Co,129
+041,Easy Wash Mach Corp,2077
+041,Rollway Bearing,108
+041,Strgt Line Fdry Mach,7
+041,C C Bradley,222
+041,Doyle Mach,185
+041,Durston Gear,2
+041,U S Hoffman Mach Co,341
+041,Beaver Mach,18
+041,Pass Seymour Inc,495
+041,Camillus Cutlery,329
+041,Kane & Roach,48
+041,New Process Gear,585
+041,Frazer & Jones,60
+041,Solvay,224
+041,Cine Simplex,99
+041,Globe Forge Foundrs,24
+041,Oberdorfer Brass Co,97
+041,Lennox Furnace Co,35
+041,Continental Can Co,235
+041,R E Dietz,204
+041,Porter Cable Mach,80
+041,Kilian,64
+041,Precision Cast,355
+041,San Equip Inc,42
+041,L C Smith,540
+041,Auto Lite Battery,528
+041,E C Stearns & Co,48
+041,Carrier Corp,688
+041,Morris Mach,20
+041,O M Edwards,57
+041,Stanton Foundry,4
+041,T N Benedict,50
+041,Onondaga Pottery,780
+041,Niag Motors Exp,18
+041,Remington C,1090
+041,Syracuse Transit,50
+041,Maclaw Tool Aircrft,30
+041,Flexo Wire,152
+041,Amer Bowlg Billiard,36
+041,Iroquois China,99
+041,Syracuse Ornamental,214
+041,Natl Aniline Def,14
+041,Syra Army Air Base,179
+041,NY Tel F Traf Div,422
+041,Gray Bros Shoes,95
+041,A E Nettleton,268
+041,Borden Co,50
+041,Ward Bkg Co,51
+041,S Elman,244
+041,Crown Mills,94
+041,Cent Greyhound,78
+041,Genl Elec Turb & Rad,2217
+041,Lamson Co Inc,380
+041,848 A A F Spec Depot,184
+041,Prosperity Co Inc,312
+042,Faichney Inst,296
+042,Bagley & Sewall Co,319
+042,C H Frink,6
+042,N Y Airbrake,751
+042,St Regis Paper,36
+042,St Regis Ppr Co,35
+042,Natl Paper,78
+042,Adir Core Plug,3
+042,John Bacon Inc,28
+042,Pine Camp US Civ Ser,348
+043,Fitzgibhans Boiler,83
+043,St Regis Paper,26
+043,Ames Ir Wks,36
+043,Columbia Mills,199
+043,Taggart,271
+043,Oil Well Supply Co,6
+043,Diamond Match,105
+043,Samson United Corp,273
+044,Hunter Arms Co Inc,50
+044,Hunter Ventltg,85
+044,Dilts Mach Wks,9
+044,Armstrong Cork,55
+044,Amer Woolen Fulton,380
+044,P Cailler Kohler,500
+044,Sealright Co Inc,906
+044,Snider Packing Co,132
+045,Bowen Prod,
+045,Auburn Button,37
+045,Auburn Spark Plug,351
+045,International Harv,154
+045,Barr Typewriter,458
+045,Amer Loco,265
+045,Columbia Rope,401
+045,Auburn Wood Products,609
+045,Dunn & McCarthy,32
+045,Firth Carpet Co,415
+045,Beacon Milling,179
+045,M Meadows Stewart,37
+045,Sterling Shoe,193
+045,Red Star Express,113
+045,Red Star Express (2),21
+046,Brewer Titchener,20
+046,Brockway Motor,26
+046,Wickwire,158
+046,Edlund Machinery Co,147
+046,Champion Sheet Metal,14
+046,Cortland Line Co,377
+046,Crescent Corset,529
+046,Cooper Bros,
+047,Morse Chain,257
+047,Allen Wales Add Mach,331
+047,L C Smith & Corona,335
+047,Ithaca Gun,194
+047,N Y S Elec & Gas,71
+051,Lucas Screw Prod,41
+051,Liberty Tool & Die,19
+051,Precision Fabricator,54
+051,Amer Can,229
+051,Kellogg Compre D15,87
+051,Amer Brake Shoe & F,3
+051,F A Smith Mfg Co,577
+051,Rochester Cartg,5
+051,Rochester Prod G M,1472
+051,Stromberg Carlson,1496
+051,Despatch Shops,32
+051,Gen R R Signal Corp,2037
+051,Taylor Inst,990
+051,Eastman Kodak,12518
+051,Bausch & Lomb,3875
+051,Delco Appliance,1645
+051,Symington Gould,149
+051,Consol Mach Tool,85
+051,Rochester Transit,51
+051,Otto Berny Co,57
+051,Atlantic Stampg,15
+051,Hetzler Foundry,2
+051,Germanow Simon Co,53
+051,Bastian,183
+051,Simpson Walter Lens,23
+051,Auburn Ball Bearing,
+051,Art Craft Optical,127
+051,M D Knowlton,25
+051,Curtice Brothers,36
+051,Birds Eye Snider Div,4
+051,E E Fairchild,121
+051,Hickok,629
+051,Timely Clothes,615
+051,Michaels Stern Co,538
+051,Beech Nut,273
+051,Distillation Prod,109
+051,E P Reed Shoes,253
+051,L M Lowenthal,221
+051,Vogt,136
+051,Ke Lox Mfg,83
+051,Cochrane Bly Co,3
+051,Cunningham J Son,192
+051,Huther Bros Saw,9
+051,Morgan Machine Co,39
+051,Merchts Desptch T,1
+051,Pfandler Co,71
+051,Todd,388
+051,Dollinger Corp,52
+051,Samson United,530
+051,Ritter Company Inc,423
+051,Defender Photo,234
+051,Shuron Optical,365
+051,Wollensak Optical,293
+051,Rochester Mfg,224
+051,Amer Laundry Mach,72
+051,Davenport Mach Tool,7
+051,Sargent & Greenleaf,137
+051,Wilmot Castle,40
+051,Monroe Ordnance Inc,75
+051,Folmer Graflex,244
+051,Ilex Optical,57
+051,F E Reed Glass,71
+051,Electromatic Type Dv,753
+051,Yawman Erbe,154
+051,Wellsea Works,1
+051,Bond Clothes,1489
+051,Gleason,163
+051,Haloid Col,224
+051,Aeolian Amer Corp,31
+051,J G Menihan Corp,259
+051,Schlegel,162
+051,Dolomite Products Co,
+051,Columbia Mills,199
+051,Taggart,271
+051,Odenbach Shipbldg,45
+051,Rochester Button,170
+051,Roch Tel Corp,1105
+051,Rochester Optical,53
+051,Walz & Krenzer,17
+051,Lawless Bros Mills,3
+051,Commercial Control,735
+051,D Armstrong,93
+051,Fashion Park,868
+051,Hickey Freeman,801
+051,Levy & Adler,258
+051,W B Coon,161
+051,N Y Frozen Foods,80
+051,Hopeman Lumber,17
+051,H H Clapp,735
+051,Rochester G & E,291
+051,Rochester Pack,219
+051,Bruening Winans,32
+051,R T French,192
+051,Rochester Fold Box,53
+051,Lorscheider Schang,211
+051,Hathaway Bakeries,56
+051,Strecher Traung Lith,132
+051,Pulver Co Inc,19
+051,Josiah Anstice Co,21
+051,Quaker Maid Co Inc,86
+051,Ebsary Gypsum Co,3
+051,Webster Basket,43
+051,Crouch Beehan,11
+051,Sampson Box & Lumber,3
+051,Rochester Ord Dist,644
+051,Rochester Box Lumber,15
+051,Dinion Coil Co,233
+051,West Tire Setter Co,3
+051,Morley Machinery,6
+051,Technifinish Lab,302
+053,Bloomer,100
+053,Garlock Canning,684
+053,Hickok,150
+053,H B Huxley,104
+053,Acme Electric & Mfg,328
+054,Doehler Jarvis Corp,281
+054,The Massey Harris,158
+054,Westinghouse E & Mfg,15
+054,Lapp Insulator,230
+054,Birdeye Snider Dir,130
+054,Birdeyes Snider Corp,5
+054,H J Heinz,353
+054,E N Rowell,184
+054,U S Gypsum,39
+054,P W Minor,210
+054,Albion Mach Tool,6
+056,Mid State Body Corp,19
+056,Seneca Falls Mach,25
+056,Hulse,41
+056,American Can Co,148
+056,Goulds Pump,173
+056,Lisk,73
+056,Papec Mach,6
+056,Shuron Optical,133
+056,Andes Range,17
+056,U S Radiator Corp,5
+056,Seneca Ordnance,383
+056,Rumsey Mfg Corp,234
+056,USN Train Sta,401
+056,Michael Stein,233
+056,Geneva Forge,184
+056,Seneca Knit,225
+056,Geneva Preserving,9
+056,N Y S Elec & Gas,22
+056,Comstock Canning Cor,149
+056,Barden Robeson,42
+056,E I Dupont De Nemour,20
+060,Kaustine Co,34
+060,Foster Wheeler,209
+060,Moore Steam Turbine,195
+060,Air Preheater Corp,20
+060,Acme Electric & Mfg,417
+060,Sinclair Refining Co,17
+060,Warsaw Elevator Co,34
+060,Foote,9
+060,K R Wilson Co,6
+060,Mercury Aircraft,186
+060,W H Gunlacke Chair,97
+060,Snider Packing Co,30
+060,Hornell Wood,6
+060,Huguet Fabrics Corp,120
+060,Bloom Shoe Mfg,159
+060,Brown Knitting Co,168
+060,Perry Knitting Co,102
+060,Erie R R Co All Dept,133
+071,Chev Pl 2,585
+071,Genl Cable,1134
+071,Farrar & Trefts,30
+071,Trico Products Corp,1207
+071,Lancaster Mall Steel,6
+071,Uebelhoer,16
+071,Crosby,90
+071,Lumen Bearing,9
+071,Excelsior Steel Ball,2
+071,Alleg Ludlum,93
+071,Hanna Furn,20
+071,Rep Steel,215
+071,August Feine Sons,26
+071,Markel Electric Prod,89
+071,Ernst Iron,6
+071,Mc Callum Hatch,8
+071,Bflo Forge,190
+071,Morrison Steel Prod,89
+071,Pullman Car,85
+071,J H Williams,306
+071,Jewell Plast & Mall,12
+071,Durez Plastics,78
+071,Atlas Steel,20
+071,American Radiator Co,72
+071,Richardson Boat Co,12
+071,Stand Buff Found,4
+071,Beth Steel,618
+071,Mc Kaig Hatch,16
+071,N Y Car Wheel,9
+071,Ross Heater,86
+071,Bflo Bolt,414
+071,Spencer Lens,667
+071,Amer Magnesium,76
+071,Farrell Birmingham,123
+071,Strong Steel Found,14
+071,Amer Rad & San,63
+071,Mc Cauley Metal,64
+071,Amer Brake Thoe Fdry,2
+071,Barcalo,87
+071,Amer Brass,303
+071,Symington Gould,255
+071,Westinghouse,62
+071,Genl Chem,18
+071,Buffalo Electro Chem,34
+071,Semet Solvay,4
+071,Linde Air,260
+071,Lake Erie Eng,37
+071,Wickwire Spencer,145
+071,Dunlop Tire,293
+071,Fedders Mfg,265
+071,Columbus Mckinnon,2
+071,Bliss & Loughlin,34
+071,Buffalo Arms Corp,157
+071,Bflo Tube,508
+071,Ushco Mfg Co,13
+071,Spaulding Fibre,275
+071,U S Rubber Recl,115
+071,Internl Paper,75
+071,Savony Cent,59
+071,Amer Shipbldg,4
+071,Boland & Cornelius,14
+071,Boss Linco,13
+071,Brown,3
+071,Bflo Stor & Cart,6
+071,Bflo Transit,10
+071,Grest Lakes Transit,5
+071,Linc Stor & Cart,3
+071,Pacific Transp Lines,4
+071,Internl R R,440
+071,Term & Transp,24
+071,Bison Shipbldg,5
+071,Columbus Mckinnon,259
+071,Acme Steel & Mall,43
+071,D N X Eng,72
+071,Remington,304
+071,Remington Rand Inc,455
+071,W Div Niag Huds Pow,477
+071,Du Pont,1087
+071,F N Burt,9
+071,Bison Casting,202
+071,Kittinger Co,418
+071,M Wile,13
+071,S Greenfield,645
+071,Rudolph Wurlitzer Co,105
+071,Pratt & Lambert,9
+071,Donna Hanna Coke,29
+071,Assoc Transport,63
+071,Natl Grinding Wheel,335
+071,Sponge Aire Seat,39
+071,Danahy Pack,281
+071,W & F Mfg Co,58
+071,Wales Strippett Corp,168
+071,Natl Gypsum,383
+071,Natl Biscuit,114
+071,Iroquois Gas,56
+071,Maritime Milling,279
+071,Hygrade Food,115
+071,Sharpe Inc,7
+071,Socony Atlas,43
+071,R T Jones Lumber,103
+071,Linde Air Pro Cera,1213
+071,Chev Motor Co 1,219
+071,Pacific Motor Center,1
+071,Lake Erie Engineer,454
+071,801st AAF Spec Depot,16
+071,Larkin Warehouse,6401
+071,Bell Aircraft Corp,4
+071,Keeshin Motor Co,1551
+071,Chev Motor Axel Div,485
+071,801st AAF Spec Depot,111
+071,AAF East Proc Curtis,112
+071,A A F East Proc Bell,106
+071,Eastern Procur A A F,271
+071,Dist Eng U S Eng,253
+071,Off Insp Naval Mat,13
+071,Trojan Rectifier,45
+071,Exelon Co,140
+071,American Container,
+071,National Battery Co,
+073,Chisholm Ryder Co,307
+073,Carborundum,2345
+073,Dobbie Foun Mach,7
+073,Mathie Foun Mach,86
+073,Carbide Carbon,6
+073,Hooker Elect Chem,154
+073,Pitts Metallurgical,24
+073,Natl Carbon,235
+073,Electro Chem Dept,290

@@ -1,0 +1,1516 @@
+"city","state","count"
+"2520 Merrick Rd.","NY",1
+"Abbeyville","LA",2
+"Aberdeen","SD",20
+"Aberdeen","WA",3
+"Abilene","TX",25
+"Adrian","MI",3
+"Agana","GU",6
+"Aguas Buenas","PR",6
+"Akron","OH",192
+"Alamagordo","NM",1
+"Alameda","CA",6
+"Albany","CA",3
+"Albany","GA",27
+"Albany","NY",185
+"Albuquerque","NM",199
+"Alexandra","LA",1
+"Alexandria","LA",52
+"Alexandria","VA",10
+"Alhambra","CA",18
+"Alleghanny","CA",2
+"Allentown","PA",64
+"Allston","MA",1
+"Alton","IL",2
+"Altoona","PA",22
+"Amarillo","TX",96
+"Ames","IA",25
+"Amherst","MA",16
+"Amherst","NY",27
+"Anaheim","CA",16
+"Anchorage","AK",138
+"Andover","MA",4
+"Ann Arbor","MI",75
+"Annapolis","MD",49
+"Anniston","AL",25
+"Anoka","MN",4
+"Anoke","MN",1
+"Ansley Square","GA",1
+"Antioch","IL",2
+"Appleton","WI",50
+"Aptos","CA",1
+"Arcadia","CA",5
+"Arcadia","LA",9
+"Arlington","TX",39
+"Arlington","VA",20
+"Asan","GU",1
+"Asbury Park","NJ",164
+"Ascutney","VT",2
+"Asheville","MS",2
+"Asheville","NC",59
+"Ashland","OR",12
+"Aspen","CO",27
+"Astoria","NY",2
+"Athens","GA",90
+"Athens","OH",25
+"Atlanta","GA",708
+"Atlantic City","NJ",319
+"Attleboro","MA",10
+"Auburn","AL",39
+"Auburn","CA",10
+"Auburn","WA",1
+"Augusta","GA",28
+"Augusta","KS",8
+"Augusta","ME",28
+"Aurora","IL",7
+"Austin","TX",228
+"Avenel","NJ",3
+"Avon","MA",1
+"Azusa","CA",2
+"Babylon","NY",6
+"Babylon, L.I","NY",1
+"Bagnell","MO",2
+"Bakersfield","CA",82
+"Balboa","CA",6
+"Baldwin Park","CA",1
+"Baldwin, L.I.","NY",1
+"Baltimore","MD",533
+"Bangor","ME",52
+"Barberton","OH",2
+"Barboursville","WV",2
+"Barnegat Light","NJ",6
+"Barstow","CA",2
+"Batesville","MS",5
+"Baton Rouge","LA",121
+"Battle Creek","MI",3
+"Battle Creek ","MI",13
+"Bay City","MI",3
+"Bay City ","MI",6
+"Bayshore","NY",7
+"Bayville","NY",12
+"Bayville, L.I.","NY",1
+"Beachwood","OH",1
+"Beaufort","NC",2
+"Beaumont","TX",49
+"Beaver Dam","WI",12
+"Beckley","WV",4
+"Belleville","IL",5
+"Belleville","MI",6
+"Belleville","NJ",1
+"Bellevue","NE",15
+"Bellflower","CA",4
+"Bellingham","WA",46
+"Bellmawr","NJ",1
+"Bellmore","NY",33
+"Bellmore, L.I.","NY",1
+"Bellows Falls","VT",9
+"Bellport","NY",1
+"Belmar","NJ",10
+"Belvidere","NJ",2
+"Berkeley","CA",61
+"Berkeley Springs","WV",2
+"Berlin","NJ",4
+"Berlin","VT",6
+"Bernalillo","NM",1
+"Berwick","PA",1
+"Berwin","IL",2
+"Berwyn","IL",3
+"Bethany Beach","DE",16
+"Bethlehem","PA",2
+"Beverly Hills","CA",5
+"Beverly Shores","IN",11
+"Biddeford","ME",4
+"Big Bear Lake","CA",5
+"Big Rapids","MI",30
+"Billings","MT",30
+"Biloxi","MS",89
+"Binghamton","NY",75
+"Birmingham","AL",200
+"Bisbee","AZ",9
+"Bismarck","NC",1
+"Bismarck","ND",11
+"Bismark","ND",1
+"Black River","NY",5
+"Blacksburg","VA",2
+"Blaine","WA",16
+"Blairsville","PA",5
+"Bloomingdale","NY",2
+"Bloomington","IL",27
+"Bloomington","IN",81
+"Blue Mounds","WI",1
+"Blue Point","NY",1
+"Bluefield","WV",8
+"Boca Raton","FL",5
+"Boerum Hill","NY",2
+"Bohemia","NY",7
+"Boise","ID",62
+"Boonville","CA",5
+"Bossier City","LA",3
+"Boston","MA",720
+"Boulder","CO",52
+"Boulder","MT",6
+"Bourne","MA",1
+"Bowling Green","KY",5
+"Boynton Beach","FL",1
+"Bozeman","MT",6
+"Bradenton","FL",8
+"Brattleboro","VT",1
+"Brattlesboro","VT",2
+"Brawley","CA",1
+"Brazil","IN",1
+"Brea","CA",3
+"Breckenridge","CO",16
+"Bremerton","WA",31
+"Brentwood","NY",1
+"Brewer","ME",1
+"Brick Town","NJ",2
+"Bridgehampton","NY",10
+"Bridgeport","CT",47
+"Bridgeport","PA",16
+"Brinnon","WA",4
+"Bristol","CT",3
+"Bristol","PA",3
+"Bristol","TN",6
+"Bristol","VA",3
+"Brockton","MA",2
+"Bronx","NY",16
+"Brookings","SD",15
+"Brooklyn","MI",4
+"Brooklyn","NY",76
+"Brooklyn Heights","NY",28
+"Brownsville","TX",16
+"Brunswick","ME",14
+"Bryte","CA",27
+"Buena Park","CA",3
+"Buffalo","NY",309
+"Burbank","CA",43
+"Burlingame","CA",7
+"Burlington","IA",3
+"Burlington","VT",63
+"Burtonsville","MD",10
+"Butler","NJ",4
+"Butler","PA",3
+"Butte","MT",17
+"Byfield","MA",2
+"Caldwell","ID",8
+"Caldwell","TX",3
+"Calexico","CA",3
+"Caliente","CA",4
+"Calumet City","IL",82
+"Calvert","TX",1
+"Cambridge","MA",81
+"Camden","NJ",40
+"Campbell","CA",7
+"Campbellsville","KY",6
+"Canton","OH",88
+"Canyon","TX",5
+"Cape Canaveral","FL",1
+"Cape May","NJ",1
+"Carbondale","IL",32
+"Carbondale","PA",2
+"Carbondle","IL",4
+"Caribou","ME",2
+"Carle Place","NY",1
+"Carmel","CA",5
+"Carmichael","CA",4
+"Carson City","NV",1
+"Carthegena","OH",4
+"Casa Grande","AZ",1
+"Casper","WY",32
+"Cathedral City","CA",55
+"Cedar Crest","NM",1
+"Cedar Rapids","IA",69
+"Center Moriches","NY",1
+"Central Falls","RI",11
+"Centralia","IL",1
+"Chambersburg","PA",6
+"Champaign","IL",75
+"Chapel Hill","NC",39
+"Charleston","SC",114
+"Charleston","WV",53
+"Charlestown","NH",1
+"Charlestown","WV",48
+"Charlotte","NC",243
+"Charlotte Amalie, St. Thomas","VI",88
+"Charlottesville","VA",5
+"Chatanooga","TN",9
+"Chattanooga","TN",112
+"Chelsea","NY",1
+"Cherokee","IA",1
+"Cherry Hill","NJ",11
+"Chester","OH",1
+"Chester","PA",8
+"Chesterton","IN",1
+"Cheyenne","WY",77
+"Chicago","IL",1557
+"Chicago Heights","IL",1
+"Chico","CA",35
+"Chicopee","MA",3
+"Chittenango","NY",4
+"Christiansted, St. Croix","VI",21
+"Chula Vista ","CA",1
+"Cicero","IL",2
+"Cincinnati","OH",306
+"Ciudad Juarez","Mexico",7
+"Ciudad Juarez","TX",3
+"Clare","MI",3
+"Clarksburg","WV",5
+"Clarksville","TN",14
+"Clear Lake","CA",34
+"Clearlake","CA",1
+"Clearwater","FL",47
+"Cleveland","OH",492
+"Cleveland Heights","OH",2
+"Cliffside Park","NJ",8
+"Clifton","NJ",3
+"Clifton","OH",2
+"Cocoa Beach","FL",43
+"Coconut Grove","FL",6
+"College Park","GA",1
+"College Park","MD",14
+"College Station","TX",9
+"Coloma","MI",1
+"Colorado Springs","CO",158
+"Columbia","MO",49
+"Columbia","SC",135
+"Columbus","GA",88
+"Columbus","MS",15
+"Columbus","OH",269
+"Compton","CA",1
+"Concord","CA",2
+"Concord","NH",6
+"Condado","PR",76
+"Coney Island","NY",1
+"Congers","NY",13
+"Conneaut Lake","PA",1
+"Conroe","TX",9
+"Cooperstown","NY",4
+"Coos Bay","OR",41
+"Coos Bay--North Bend","OR",2
+"Coos Bay-North Bend","OR",3
+"Copaigue","NY",1
+"Copiague","NY",2
+"Copiaque","NY",1
+"Corning","NY",1
+"Corpus Christi","TX",80
+"Corte Madera","CA",3
+"Cortland","NY",1
+"Corvallis","OR",15
+"Coshocton","OH",71
+"Costa Mesa","CA",39
+"Cottondale","FL",3
+"Council Bluffs","IA",25
+"Covina","CA",2
+"Covington","KY",30
+"Cresson","PA",9
+"Crestwood","IL",9
+"Cuidad Juarez, Mexico","TX",5
+"Culber City","CA",1
+"Culver City","CA",14
+"Cumberland","MD",24
+"Cupertino","CA",27
+"Dalhart","TX",5
+"Dallas","TX",651
+"Dana Point","CA",12
+"Danbury","CT",2
+"Dandridge","TN",1
+"Dania","FL",8
+"Danville","IL",23
+"Danville","VA",15
+"Darien","CT",2
+"Davenport","IA",43
+"Davis","CA",16
+"Dayton","OH",165
+"Daytona Beach","FL",145
+"Decanso","CA",2
+"Decatur","AL",31
+"Decatur","IL",10
+"Deer Park","NY",9
+"Deland","FL",1
+"Dennis","MA",1
+"Denver","CO",641
+"Deptford","NJ",1
+"Des Moines","IA",166
+"Des Plaines","IL",5
+"Des Plains","IL",1
+"Descanso","CA",4
+"Detriot Lakes","MN",1
+"Detroit","MI",748
+"Detroit Lakes","MN",10
+"Dickenson","ND",21
+"Dillon","SC",12
+"Dixmore","IL",11
+"Dodge City","KS",2
+"Dodson","LA",1
+"Donna","TX",1
+"Dotham","AL",2
+"Dothan","AL",11
+"Douglas","AZ",1
+"Douglas","MI",1
+"Dover","DE",5
+"Dover","NJ",9
+"Downs","KS",2
+"Duarte","CA",11
+"Dubuque","IA",5
+"Duluth","MN",51
+"Duncan Mills","CA",2
+"Duncansville","PA",4
+"Dunepin","FL",1
+"Dunkirk","NY",1
+"Durango","CO",16
+"Durham","NC",72
+"Dutch Flat","CA",3
+"Duxbury","MA",1
+"E. Hartford","CT",1
+"E. Lansing","MI",1
+"E. Meadow","NY",2
+"E. Northport","NY",5
+"Eagle Rock","CA",2
+"East Alamosa","CO",2
+"East Barnet","VT",3
+"East Greenwich","RI",3
+"East Hampton","NY",32
+"East Islip","NY",1
+"East Meadow","NY",1
+"East Middlebury","VT",2
+"East Orange","NJ",13
+"East Patterson","NJ",1
+"East St Louis","IL",43
+"East St. Louis","IL",17
+"East Village","NY",2
+"Easthampton","MA",1
+"Easthampton","NY",8
+"Easton","PA",32
+"Eastport","MD",3
+"Eatontown","NJ",16
+"Echo Park","CA",9
+"Edison","NJ",11
+"Edmonds","WA",5
+"Edwardsville","PA",2
+"El Cajon","CA",20
+"El Centro","CA",15
+"El Dorado","AR",2
+"El Monte","CA",28
+"El Paso","TX",230
+"El Segundo","CA",6
+"El Sobrante","CA",5
+"Elizabeth","NJ",14
+"Elizabeth","PA",2
+"Elk Grove","IL",2
+"Elmhurst","NY",3
+"Elmira","NY",47
+"Elmont","NY",1
+"Emmaus","PA",1
+"Emporia","KS",4
+"Encino","CA",8
+"Enfield","CT",2
+"Erie","PA",55
+"Escondido","CA",4
+"Eugene","OR",70
+"Eureka","CA",59
+"Eureka Springs","AR",17
+"Evanston","IL",26
+"Evansville","IN",87
+"Everett","WA",26
+"Fabens","TX",6
+"Fairbanks","AK",70
+"Fairfax","CA",9
+"Fairfield","CA",2
+"Fairfield","IA",1
+"Fall River","MA",7
+"Fargo","NC",4
+"Fargo","ND",54
+"Farmersbury","IN",2
+"Farmington","CT",7
+"Fayetteville","AR",34
+"Fayetteville","NC",84
+"Fayetteville","SC",2
+"Fells Point","MD",2
+"Fernandina Beach","FL",4
+"Ferndale","MI",1
+"Findlay","OH",8
+"Fire Island","NY",161
+"Fire Island, L.I.","NY",15
+"Fitchburg","MA",6
+"Flagstaff","AZ",19
+"Flint","MI",54
+"Floral Park","NY",8
+"Floral Park, L.I.","NY",1
+"Florence","AL",31
+"Florence","KY",5
+"Florence","SC",32
+"Flushing","NY",4
+"Folsom","CA",3
+"Fond Du Lac","WI",12
+"Fontana","CA",7
+"Forest","MS",6
+"Forest Hills","NY",2
+"Forest Park","IL",28
+"Forestville","CA",8
+"Forrest Hill","NY",2
+"Fort Collins","CO",2
+"Fort Dodge","IA",1
+"Franklin Park","IL",4
+"Frederiksted, St. Croix","VI",20
+"Freeport","MD",4
+"Freeport","ME",4
+"Fremont","CA",8
+"Fremont","OH",9
+"Fresno","CA",56
+"Fresno ","CA",83
+"Ft. Belvoir","VA",4
+"Ft. Dodge","IA",5
+"Ft. Lauderdale","FL",463
+"Ft. Lauderdale Beach","FL",2
+"Ft. Launderdale","FL",67
+"Ft. Lee","NJ",4
+"Ft. McCoy","FL",1
+"Ft. Myers","FL",91
+"Ft. Pierce","FL",6
+"Ft. Smith","AR",53
+"Ft. Walton Beach","FL",29
+"Ft. Wayne","IN",103
+"Ft. Worth","TX",208
+"Fullerton","CA",9
+"Gadsen","AL",2
+"Gaffney","SC",4
+"Gainesville","FL",29
+"Gainesville","TX",1
+"Gainsville","FL",60
+"Galesburg","IL",4
+"Galveston","TX",129
+"Garden Grove","CA",157
+"Gardena","CA",2
+"Gardena ","CA",26
+"Garrison","NY",3
+"Gary","IN",30
+"Gasden","AL",1
+"Gastonia","NC",6
+"Gatlinburg","TN",5
+"Gaviota State Beach","CA",2
+"Geneva on the Lake","OH",5
+"Georgetown","DC",3
+"Ghent","NY",3
+"Gillette","WY",1
+"Glen Cove","NY",2
+"Glen Oaks","NY",1
+"Glen Rose","TX",5
+"Glenbrook","CT",2
+"Glendale","AZ",10
+"Glendora","CA",3
+"Glenford","NY",1
+"Glens Falls","NY",1
+"Glouchester","MA",4
+"Golden","CO",3
+"Goldsboro","NC",3
+"Grand Forks","NC",1
+"Grand Forks","ND",20
+"Grand Haven","MI",1
+"Grand Haven ","MI",16
+"Grand Island","NE",15
+"Grand Junction","CO",25
+"Grand Rapids","MI",94
+"Grand haven","MI",1
+"Grandview Pike","WV",1
+"Grant's Pass","OR",1
+"Grants Pass","OR",9
+"Grass Valley","CA",5
+"Great Bend","KS",6
+"Great Falls","MT",63
+"Greeley","CO",16
+"Green Bay","WI",72
+"Greenbelt","MD",2
+"Greenburg","PA",3
+"Greencastle","PA",6
+"Greenfield","MA",2
+"Greensboro","NC",100
+"Greensburg","PA",22
+"Greenville","NC",16
+"Greenville","SC",65
+"Greenwhich","CT",1
+"Greenwich","CT",8
+"Greenwich Village","NY",1106
+"Greenwich Village & Chelsea","NY",202
+"Greenwood","SC",5
+"Guerneville","CA",53
+"Guernewood Park","CA",1
+"Guerneyville","CA",2
+"Gulfport","MS",23
+"Guttenberg","NJ",3
+"Hackensack","NJ",3
+"Hagerstown","MD",17
+"Hallandale","FL",30
+"Hamburg","PA",2
+"Hamden","CT",1
+"Hamilton","KS",8
+"Hamilton","OH",2
+"Hammonasset","CT",1
+"Hammond","IN",18
+"Hampton","NH",6
+"Hampton","VA",8
+"Hanover","NH",24
+"Harper","KS",2
+"Harpers Ferry","WV",7
+"Harrisburg","PA",128
+"Hartford","CT",210
+"Harwich","MA",1
+"Hato Ray","PR",4
+"Hattiesburg","MS",20
+"Haverhill","MA",2
+"Hawthorne","CA",21
+"Hayward","CA",71
+"Hazleton","PA",3
+"Healdsburg","CA",2
+"Hegins","PA",2
+"Helena","MT",28
+"Hemet","CA",8
+"Hempstead","NY",27
+"Henrietta","TX",1
+"Hermosa Beach","CA",8
+"Hernando","MS",3
+"Herndon","CA",1
+"Hialeah","FL",16
+"Hickory","NC",8
+"Hicksville","NY",3
+"High Point","NC",10
+"Highland","CA",1
+"Highland","NY",4
+"Highland Park","CA",6
+"Highland Park","NJ",7
+"Highland Park","NY",2
+"Highland Park ","CA",17
+"Highland Park ","NY",1
+"Hilaleah","FL",5
+"Hillsborough","CA",10
+"Hilo","HI",38
+"Hilo, Hawaii","HI",9
+"Hilton Head","GA",2
+"Hobbs","NM",4
+"Hodges","SC",4
+"Holbrook","NY",2
+"Holiday","FL",1
+"Holland","MI",12
+"Hollis","NY",2
+"Holly Hill","FL",1
+"Hollywood","CA",995
+"Hollywood","FL",59
+"Hollywood Station","CA",1
+"Hollywood West","CA",55
+"Holyoke","MA",17
+"Homestead","PA",1
+"Honolulu","HI",62
+"Honolulu, Oahu","HI",7
+"Hoquiam","WA",2
+"Hot Springs","AR",55
+"Houma","LA",31
+"Houston","TX",1000
+"Humble","TX",4
+"Huntington","NY",8
+"Huntington","WV",60
+"Huntington Beach","CA",1
+"Huntington Park","CA",41
+"Huntsville","AL",54
+"Hutchinson","KS",3
+"Hyannis","MA",4
+"Idaho Falls","ID",46
+"Idaho Springs","CO",1
+"Imperial Beach","CA",1
+"Indiana","PA",14
+"Indianapolis","IN",350
+"Indio","CA",4
+"Inglewood","CA",43
+"Interlochen","MI",3
+"Iowa City","IA",30
+"Ipswich","MA",6
+"Irvington","NJ",1
+"Ithaca","NY",40
+"Jackson","MI",9
+"Jackson","MS",74
+"Jackson","NH",3
+"Jackson","TN",33
+"Jackson","WY",22
+"Jackson Heights","NY",30
+"Jacksonville","AL",20
+"Jacksonville","FL",195
+"Jacksonville","IL",14
+"Jacksonville","NC",10
+"Jacksonville Beach","FL",34
+"Jamaica","NY",8
+"Jamestown","NY",30
+"Janesville","WI",6
+"Jefferson City","MO",13
+"Jerome","AZ",4
+"Jersey City","NJ",33
+"Jessup","MD",2
+"Johnson City","NY",5
+"Johnson City","TN",33
+"Johnstown","PA",14
+"Joliet","IL",30
+"Joplin","MO",66
+"Junction City","KS",8
+"Juneau","AK",31
+"Kailua","HI",6
+"Kailua, Oahu","HI",1
+"Kailua-Kona","HI",10
+"Kailua-Kona, Hawaii","HI",4
+"Kalakapei Beach, Kauai","HI",2
+"Kalamazoo","MI",47
+"Kalispell","MT",7
+"Kaneohe","HI",5
+"Kannapolis","NC",3
+"Kansas City","KS",25
+"Kansas City","MO",413
+"Kapaa-Wailua, Kauai","HI",10
+"Kearney","NE",5
+"Kennewick","WA",7
+"Kenosha","WI",33
+"Kent","OH",5
+"Kent","WA",1
+"Ketchikan","AK",7
+"Kettering","OH",2
+"Kew Gardens","NY",16
+"Key West","FL",433
+"Killeen","TX",4
+"Kingman","AZ",1
+"Kingston","NJ",12
+"Kittery","ME",2
+"Klamath Falls","OR",9
+"Knightstown","IN",11
+"Knoxville","TN",131
+"Kokomo","IN",8
+"Kona","HI",5
+"La Crosse","WI",24
+"La Grange","IL",11
+"La Jolla","CA",12
+"La Porte","IN",10
+"La Salle","IL",7
+"Lackawanna","NY",2
+"Laconia","NH",8
+"Lafayette","IN",35
+"Lafayette","LA",76
+"Laguna Beach","CA",217
+"Laguna Hills","CA",2
+"Laguna Niguel","CA",2
+"Lahaina","HI",14
+"Lahaina, Maui","HI",10
+"Lake Alfred","FL",4
+"Lake Charles","LA",37
+"Lake Geneva","WI",5
+"Lake George","NY",25
+"Lake Hopatcong","NJ",2
+"Lake Placid","NY",32
+"Lake Ronkonkoma","NY",8
+"Lake Ronkonkoma, L.I.","NY",2
+"Lake Ronkonnoma","NY",2
+"Lake Tahoe","CA",19
+"Lake Tahoe","NV",12
+"Lake Worth","FL",27
+"Lakeland","FL",14
+"Lakeport","CA",3
+"Lakeshore","OH",1
+"Lakewood","OH",14
+"Lambertsville","PA",1
+"Lambertville","NJ",29
+"Lampasas","TX",1
+"Lancaster","CA",1
+"Lancaster","OH",2
+"Lancaster","PA",72
+"Landisville","NJ",3
+"Lansing","MI",99
+"Lantana","FL",1
+"Laramie","WY",11
+"Laredo","TX",24
+"Las Vegas","NV",210
+"Latham","NY",2
+"Laurel","MD",2
+"Lawndale","CA",1
+"Lawrence","KS",22
+"Lawrence","MA",2
+"Lawton","OK",25
+"Lebanon","NH",12
+"Lebanon","OH",3
+"Lebanon","PA",6
+"Leesburg","FL",5
+"Leominster","MA",14
+"Leonard","ND",2
+"Lewiston","ID",24
+"Lewiston","ME",13
+"Lexington","KY",86
+"Lexington","NC",8
+"Liberty","ME",4
+"Lihue","HI",1
+"Lihue, Kauai","HI",2
+"Lima","OH",18
+"Lincoln","NE",124
+"Lincoln City","OR",8
+"Linden","NJ",1
+"Lindenhurst","NY",8
+"Little Neck","NY",2
+"Little River","CA",2
+"Little Rock","AR",111
+"Livingston","NJ",1
+"Logan","TX",1
+"Logan","UT",3
+"Lombard","IL",3
+"Lomita","CA",12
+"Long Beach","CA",512
+"Long Beach","NJ",2
+"Long Beach","NY",1
+"Long Branch","NJ",6
+"Long Island City","NY",1
+"Long Wharf","CT",1
+"Longview","TX",13
+"Longview","WA",5
+"Lorain","OH",8
+"Loraine","OH",4
+"Lordsburg","NM",2
+"Los Angeles","CA",1288
+"Los Angeles","FL",5
+"Los Gatos","CA",8
+"Louisville","KY",212
+"Lowell","MA",36
+"Lower Lake Pleasant","AZ",2
+"Lubbock","TX",66
+"Ludlow","VT",2
+"Luray","KS",2
+"Lynchburg","VA",2
+"Lynn","MA",25
+"Lynwood","CA",3
+"Lyons","KS",5
+"Macomb","IL",10
+"Macon","GA",39
+"Madeira Beach","FL",13
+"Madison","IN",2
+"Madison","WI",128
+"Mahoney City","PA",1
+"Makena","HI",2
+"Makena, Maui","HI",1
+"Manassas","VA",3
+"Manchester","NH",73
+"Manhattan","KS",13
+"Manhattan","NY",466
+"Manhattan Beach","CA",15
+"Manitou Springs","CO",2
+"Manitowac","WI",3
+"Mankato","MN",7
+"Mansfield","OH",27
+"Maple Hill","KS",5
+"Marblehead","OH",4
+"Marcus Hook","PA",9
+"Marietta","PA",6
+"Marino Del Rey","CA",1
+"Marion","IL",6
+"Marion","IN",2
+"Marion","OH",4
+"Marquette","MI",47
+"Marshall","TX",4
+"Marshalltown","IA",12
+"Marshfield-Pembroke","MA",6
+"Martha's Vineyard","MA",14
+"Martinsville","WV",2
+"Marysville","CA",14
+"Mason City","IA",10
+"Maspeth","NY",1
+"Massapequa","NY",3
+"Mayaguez","PR",23
+"McAllen","TX",56
+"Medeira Beach","FL",6
+"Medford","MA",7
+"Medford","OR",36
+"Melbourne","FL",11
+"Memphis","TN",198
+"Mendocino","CA",17
+"Meriden","CT",9
+"Meridian","MS",37
+"Merritt Island","FL",2
+"Mesa","AZ",12
+"Mesa ","AZ",7
+"Metairie","LA",1
+"Metarie","LA",2
+"Miami","FL",637
+"Miami Beach","FL",166
+"Miamisburg","OH",3
+"Michigan City","IN",4
+"Middlebury","VT",2
+"Middletown","CA",1
+"Middletown","CT",4
+"Middletown","NY",3
+"Midland","TX",2
+"Midtown","CA",23
+"Midtown","NY",563
+"Midway City","CA",5
+"Milford","CT",1
+"Milford","MA",7
+"Mill Valley","CA",4
+"Milldale","CT",3
+"Milton","MA",6
+"Milwaukee","WI",541
+"Mine Hill","NJ",6
+"Mineola","NY",4
+"Mineral Point","WI",1
+"Minneapolis","MN",317
+"Minot","NC",1
+"Minot","ND",13
+"Miracle Mile","CA",1
+"Miramar","PR",5
+"Mishawaka","IN",1
+"Mission Beach","CA",11
+"Mission Viejo","CA",5
+"Missoula","MT",32
+"Mobile","AL",109
+"Modesto","CA",40
+"Monahans","TX",2
+"Monmouth","IL",28
+"Monroe","LA",66
+"Monroe","MI",1
+"Monroe","NY",4
+"Monrovia","CA",1
+"Montara","CA",3
+"Montauk Hwy","NY",1
+"Montclair","CA",3
+"Montebello","CA",1
+"Monterey","CA",94
+"Montgomery","AL",71
+"Montpelier","VT",3
+"Moorhead","MN",28
+"Morgan","AR",1
+"Morgan City","LA",12
+"Morgantown","WV",15
+"Morro Bay","CA",7
+"Morton","MS",6
+"Moscow","ID",35
+"Mount Clemens","MI",32
+"Mount Pleasant","MI",3
+"Mount Vernon","TX",6
+"Mountain View","CA",7
+"Mt. Vernon","IL",4
+"Mt. Vernon","WA",13
+"Mt. Washington","CA",2
+"Muncie","IN",66
+"Murpheesboro","TN",16
+"Muskegon","MI",33
+"Muskegon Heights","MI",1
+"Myrtle Beach","SC",26
+"Mystic","CT",1
+"N. Bellmore","NY",1
+"N. Smithfield","RI",2
+"N. Utica","NY",1
+"Nacogdoches","TX",5
+"Nacogdochies","TX",1
+"Nantucket","MA",20
+"Napa","CA",6
+"Naples","FL",14
+"Nashua","NH",12
+"Nashville","TN",191
+"Nawiliwili","HI",5
+"Nawiliwili, Kauai","HI",1
+"Nawiliwili, Kauai ","HI",4
+"Nescopeck","PA",14
+"Nevada City","CA",6
+"New Bedford","MA",49
+"New Britain","CT",13
+"New Brunswick","NJ",31
+"New Castle","DE",1
+"New City","NY",3
+"New Haven","CT",142
+"New Hope","PA",151
+"New Iberia","LA",3
+"New Lebanon","IN",4
+"New London","CT",53
+"New Milford","CT",7
+"New Milford","PA",3
+"New Monterey","CA",1
+"New Monterey ","CA",1
+"New Orleans","LA",968
+"New Paltz","NY",6
+"New Port Richey","FL",1
+"New Rochelle","NY",4
+"New York City","NY",36
+"Newark","DE",4
+"Newark","NJ",45
+"Newport","KY",7
+"Newport","OR",6
+"Newport","RI",60
+"Newtown","CT",5
+"Niagara Falls","NY",32
+"Niagra Falls","NY",3
+"Norfolk","NE",4
+"Norfolk","VA",212
+"Normal","IL",15
+"Norman","OK",37
+"Norristown","PA",1
+"North Beach","MD",21
+"North Conway","NH",2
+"North Hampton","NH",1
+"North Highlands","CA",1
+"North Hollywood","CA",293
+"North Merrick","NY",3
+"North Miami","FL",9
+"North Miami Beach","FL",2
+"North Salem","NY",3
+"Northampton","MA",2
+"Northhampton","MA",1
+"Northpoint","NY",1
+"Norwalk","CA",4
+"Norwalk","CT",2
+"Norwich","CT",2
+"Nyack","NY",21
+"Oak Bluffs","MA",1
+"Oak Park","IL",3
+"Oakland","CA",222
+"Oakland","PA",1
+"Oanoke Rapids","NC",1
+"Ocean Beach","CA",13
+"Ocean City","MD",21
+"Ocean City","NJ",1
+"Oceanside","CA",42
+"Odessa","TX",33
+"Ogden","UT",57
+"Ogunquit","ME",130
+"Okemos","MI",2
+"Oklahoma City","OK",229
+"Olathe","KS",4
+"Old Orchard Beach","ME",10
+"Old Rosyln Village","NY",2
+"Old San Juan","PR",6
+"Old Town","CA",2
+"Olean","NY",9
+"Omaha","NE",163
+"Ontario","CA",8
+"Opelika","AL",6
+"Opelousas","LA",1
+"Orange","CT",8
+"Orange","NJ",13
+"Orlando","FL",167
+"Ormond Beach","FL",1
+"Orono","ME",3
+"Oroville","CA",2
+"Osborne","KS",2
+"Oshikosh","WI",3
+"Oshkosh","WI",40
+"Ottawa","IL",2
+"Overland Park","KS",6
+"Owens","OH",1
+"Owensboro","KY",4
+"Owings Mills","MD",3
+"Oxford","MS",31
+"Oxford","OH",2
+"Oxnard","CA",14
+"Oxon Hill","MD",1
+"Ozark","AR",4
+"Pacific Beach","CA",14
+"Pacific Grove","CA",7
+"Paducah","KY",2
+"Paia","HI",2
+"Paia, Maui","HI",2
+"Painsville","OH",6
+"Palisades Park","NJ",2
+"Palm Beach","FL",3
+"Palm Springs","CA",279
+"Palms","CA",1
+"Palo Alto","CA",79
+"Panama City","FL",41
+"Panish Fork Canyon","UT",1
+"Panorama City","CA",4
+"Pansacola","FL",10
+"Paramount","CA",1
+"Paramus","NJ",6
+"Paris","IL",2
+"Paris","TN",3
+"Paris Pike","KY",1
+"Parkerburg","WV",3
+"Parkersburg","WV",43
+"Parsons","KS",2
+"Pasadena","CA",37
+"Pasadena ","CA",66
+"Pasaic","NJ",3
+"Pascagoula","MS",11
+"Pasco","WA",8
+"Pass-a-Grille Beach","FL",1
+"Passaic","NJ",4
+"Passaic Park","NJ",1
+"Patchoque","NY",4
+"Paterson","NJ",10
+"Patterson","NJ",12
+"Pawtucket","RI",1
+"Peabody","MA",4
+"Pence","WI",1
+"Pensacola","FL",123
+"Peoria","IL",102
+"Perth Amboy","NJ",2
+"Petersburg","VA",6
+"Petoskey","MI",10
+"Phenix City","AL",12
+"Philadelphia","PA",816
+"Philipsburg","PA",6
+"Philipsville","CA",1
+"Philipsville, Humbolt County","CA",1
+"Phillipsburg","NJ",19
+"Phillipsville","CA",3
+"Phoenix","AZ",458
+"Pico Rivera","CA",1
+"Piermont","NY",6
+"Pierre","SD",14
+"Pine Grove","PA",24
+"Pine HIll","NY",2
+"Pineallis Park","FL",1
+"Pinedale","CA",1
+"Pinellas Park","FL",2
+"Piqua","OH",16
+"Pittsburgh","KS",7
+"Pittsburgh","PA",398
+"Pittsefield","MA",2
+"Pittsfield","MA",37
+"Plainfield","NJ",3
+"Plainview","TX",7
+"Plantsville","CT",1
+"Plattsburg","NY",27
+"Pleasant Hill","CA",1
+"Pleasanton","IL",2
+"Plymouth","MA",3
+"Plymouth","MI",1
+"Pocatello","ID",22
+"Pocono Mts.","PA",9
+"Point Loma","CA",4
+"Poipu","HI",3
+"Poipu, Kauai","HI",1
+"Pomeroy","WA",4
+"Pomona","CA",40
+"Pomona ","CA",43
+"Pompano Beach","FL",9
+"Ponce","PR",10
+"Ponce De Leon","FL",1
+"Ponce de Leon","FL",1
+"Pontiac","MI",42
+"Port Charlotte","FL",1
+"Port Chester","NY",3
+"Port Huron","MI",29
+"Port Isabel","TX",1
+"Port Salerno","FL",1
+"Portland","ME",99
+"Portland","OR",580
+"Portsmouth","MA",1
+"Portsmouth","NH",64
+"Poughkeepsie","NY",34
+"Pownal","VT",2
+"Pozo","CA",1
+"Prairie Du Chien","WI",6
+"Prescott","AZ",5
+"Presque Isle","ME",3
+"Princeton","NJ",41
+"Providence","RI",303
+"Provincetown","MA",810
+"Provo","UT",18
+"Pruce Pine","NC",1
+"Pueblo","CO",63
+"Puerto Nuevo","PR",2
+"Pullman","WA",14
+"Punta Gorda","FL",5
+"Quantico","VA",2
+"Quartzite","AZ",1
+"Queens","NY",83
+"Quincy","IL",43
+"Racine","WI",27
+"Raleigh","NC",91
+"Rancho Cordova","CA",3
+"Rancho Mirage","CA",8
+"Randolph","MA",10
+"Rapid City","SD",30
+"Rawlins","WY",17
+"Reading","PA",52
+"Red Bank","NJ",1
+"Red Bluff","CA",11
+"Redding","CA",42
+"Redlands","CA",1
+"Redondo Beach","CA",74
+"Redwood CIty ","CA",1
+"Redwood City","CA",82
+"Reed","KY",3
+"Rehoboth Beach","DE",45
+"Remer","MN",2
+"Reno","NV",172
+"Renosa","Mexico",4
+"Reseda","CA",12
+"Reston","VA",6
+"Revere Beach","MA",11
+"Rialto","CA",3
+"Richfield","OH",4
+"Richmond","IN",2
+"Richmond","VA",144
+"Richmond Hill","NY",7
+"Ridgeland","IL",1
+"Ridgewood","NY",5
+"Rio Nido","CA",1
+"River Edge","NJ",6
+"Riverside","CA",69
+"Riviera Beach","FL",3
+"Roanoke","VA",44
+"Roanoke Rapids","NC",5
+"Rochester","MI",15
+"Rochester","MN",30
+"Rochester","NY",294
+"Rochester","PA",8
+"Rock Island","IL",74
+"Rock Springs","WY",6
+"Rockaway","NY",3
+"Rockbridge","OH",8
+"Rockford","IL",70
+"Rockland Lake","NY",2
+"Rockville","MD",3
+"Rogers","AR",2
+"Roman","MT",1
+"Rome","NY",11
+"Ronan","MT",7
+"Roseburg","OR",5
+"Rosedale","MN",2
+"Roselle","NJ",2
+"Rosendale","NY",1
+"Roslyn","NY",2
+"Roswell","NM",4
+"Running Springs","CA",7
+"Russian RIver","CA",2
+"Russian River","CA",37
+"Russian River ","CA",15
+"Ruston","LA",10
+"Rutland","VT",21
+"S. Daytona Beach","FL",1
+"Sacramento","CA",168
+"Sacramento ","CA",188
+"Sagatuck","MI",1
+"Saginaw","MI",37
+"Saint Mary's","OH",2
+"Saint Marys","OH",2
+"Salem","MA",4
+"Salem","NH",2
+"Salem","OR",45
+"Salina","KS",11
+"Salinas","CA",24
+"Salisbury","MD",4
+"Salt Lake City","UT",214
+"San Angelo","TX",5
+"San Antonio","TX",383
+"San Bernardino","CA",84
+"San Carlos","CA",3
+"San Clemente","CA",18
+"San Diego","CA",736
+"San Francisco","CA",3219
+"San Gabriel","CA",5
+"San Jose","CA",191
+"San Juan","PR",246
+"San Leandro","CA",2
+"San Luis Obispo","CA",41
+"San Mateo","CA",12
+"San Pedro","CA",1
+"San Rafael","CA",37
+"Sand Point","ID",2
+"Sandusky","OH",6
+"Sandwich","MA",1
+"Santa Ana","CA",11
+"Santa Barbara","CA",160
+"Santa Clara","CA",18
+"Santa Cruz","CA",70
+"Santa Fe","NM",75
+"Santa Maria","CA",7
+"Santa Maria ","CA",7
+"Santa Monica","CA",142
+"Santa Rosa","CA",13
+"Santa Rosa ","CA",12
+"Santurce","PR",5
+"Saranac Lake","NY",5
+"Sarasota","FL",84
+"Saugatuck","MI",88
+"Sault Ste. Marie","MI",11
+"Sausalito","CA",30
+"Savannah","GA",142
+"Savannah Beach","GA",38
+"Sayreville","NJ",1
+"Sayville","NY",38
+"Scarsdale","NY",1
+"Schenectady","NY",29
+"Schenley","PA",4
+"Scottsdale","AZ",19
+"Scranton","PA",48
+"Seaford","NY",5
+"Seal Beach","CA",1
+"Seaside","OR",14
+"Seattle","WA",770
+"Sedona","AZ",13
+"Seekonk","MA",5
+"Seldon","NY",3
+"Sewanee","TN",1
+"Shaker Heights","OH",6
+"Shamokin Dam","PA",1
+"Sharon","PA",7
+"Shawano Lake","WI",9
+"Shawnee-on-the-Delaware","PA",1
+"Sheboygan","WI",18
+"Shelby","NC",1
+"Sherman Oaks","CA",64
+"Shreveport","LA",91
+"Sierra Vista","AZ",4
+"Silver Lake","CA",64
+"Silver Lake","MD",1
+"Silver Springs","MD",3
+"Silverlake","CA",38
+"Sioux City","IA",12
+"Sioux Falls","SD",50
+"Slidell","LA",4
+"Smithfield","RI",8
+"Somerville","MA",6
+"Sonoma","CA",14
+"South Beach","NY",1
+"South Bend","IN",96
+"South China","ME",1
+"South Chino","ME",3
+"South El Monte","CA",7
+"South Fallsburg","NY",1
+"South Hampton","NY",1
+"South Haven","MI",2
+"South Padre Island","TX",17
+"South River","NJ",6
+"South Sacramento","CA",1
+"South San Gabriel","CA",3
+"South San Gabriel ","CA",6
+"Southampton","NY",1
+"Southboro","MA",1
+"Southfield","MI",6
+"Southington","CT",2
+"Spanish Fork Canyon","UT",1
+"Spanish Fort Canyon","UT",1
+"Sparkill","NY",1
+"Sparks","NV",4
+"Spartanburg","SC",11
+"Spokane","WA",145
+"Springfield","IL",98
+"Springfield","MA",135
+"Springfield","MO",37
+"Springfield","OH",46
+"Springfield","VA",4
+"Springfield","VT",9
+"Spruce Pine","NC",4
+"Squaw Valley","CA",1
+"St. Augustine","FL",11
+"St. Claire","OH",1
+"St. Cloud","MN",16
+"St. James","NY",1
+"St. Joseph","MO",54
+"St. Louis","MO",452
+"St. Paul","MN",85
+"St. Petersburg","FL",140
+"St. Petersburg Beach","FL",2
+"St. Simons Island","GA",4
+"Stamford","CT",12
+"Stapleton","NY",1
+"State College","PA",29
+"State College ","PA",24
+"Stateline","NV",1
+"Staten Island","NY",27
+"Steubenville","OH",27
+"Stickney","IL",3
+"Stillwater","OK",12
+"Stockbridge","MA",26
+"Stockton","CA",59
+"Stoneham","MA",6
+"Stoy","IL",3
+"Stroudsburg","PA",14
+"Stuart","FL",3
+"Studio City","CA",229
+"Suffern","NY",2
+"Summers","GA",1
+"Sun Valley","ID",7
+"Sunapee","NH",2
+"Sunbury","PA",1
+"Sunland","CA",1
+"Sunnyside","NY",2
+"Sunnyvale","CA",4
+"Sunrise Beach","MO",3
+"Sunset Beach","CA",14
+"Superior","WI",28
+"Sussex","NJ",1
+"Swansea","MA",6
+"Sweetwater","TX",6
+"Syosset","NY",4
+"Syracuse","NY",194
+"Tacoma","WA",112
+"Tahoe Vista","CA",1
+"Talequah","OK",8
+"Tallahassee","FL",71
+"Tampa","FL",267
+"Tannersville","PA",11
+"Tarzana","CA",5
+"Taunton","MA",1
+"Telluride","CO",4
+"Tempe","AZ",59
+"Temple","TX",1
+"Temple- Killeen","TX",2
+"Terre Haute","IN",53
+"Texarcana","AR",10
+"Texarkana","AR",6
+"Texarkana","TX",6
+"Thackerville","OK",1
+"The Hamptons","NY",36
+"Tijuana","CA",10
+"Tijuana","Mexico",1
+"Titusville","FL",6
+"Toledo","OH",208
+"Toltec","AZ",5
+"Tombstone","AZ",4
+"Topanga Canyon","CA",2
+"Topeka","KS",72
+"Torrance","CA",8
+"Towson","MD",7
+"Traverse City","MI",23
+"Treasure Island","FL",1
+"Trenton","NJ",70
+"Troy","MI",46
+"Troy","NY",11
+"Truckee","CA",3
+"Trumbull","CT",2
+"Tucson","AZ",247
+"Tujunga","CA",1
+"Tukwila","WA",1
+"Tulsa","OK",269
+"Tumon Bay","GU",28
+"Tumon Bay","HI",2
+"Tupelo","MS",30
+"Tupper Lake","NY",5
+"Tuscaloosa","AL",76
+"Tuscon","AZ",45
+"Twin Falls","ID",2
+"Tyler","TX",12
+"Tyngsboro","MA",13
+"Tysons Corner","VA",4
+"Ukiah","CA",5
+"Union City","NJ",13
+"Upland","CA",4
+"Upper Nyack","NY",1
+"Upton","MA",1
+"Uptown","NY",320
+"Uptown- N.Y.C.","NY",15
+"Urbana","IL",5
+"Utica","NY",61
+"Uxbridge","MA",5
+"Vail","CO",16
+"Valdosta","GA",2
+"Valhalla","NY",3
+"Vallejo","CA",9
+"Valley","CA",43
+"Valparaiso","IN",6
+"Van Nuys","CA",58
+"Vancouver","WA",1
+"Venice","CA",49
+"Ventura","CA",28
+"Vero Beach","FL",1
+"Vicksberg","MS",5
+"Vicksburg","MS",16
+"Victoria","TX",11
+"Victorville","CA",2
+"Villa Park","IL",1
+"Vincennes","IN",13
+"Vinton","LA",1
+"Virginia Beach","VA",18
+"Visalia","CA",1
+"Vista","CA",2
+"W. Hartford","CT",1
+"Waco","TX",83
+"Waikiki","HI",107
+"Waikiki Beach","HI",59
+"Waikiki Beach, Oahu","HI",143
+"Wailuku","HI",3
+"Wailuku, Maui","HI",2
+"Wakarusa","KS",8
+"Walla Walla","WA",14
+"Wallington","NJ",2
+"Walnut Creek","CA",13
+"Walpole","NH",2
+"Walton","KS",8
+"Wanatah","IN",1
+"Wantagh","NY",11
+"Ware","MA",7
+"Warren","OH",45
+"Warren","VT",4
+"Warwick","RI",4
+"Washington","D.C.",152
+"Washington","DC",195
+"Washington","District of Columbia",534
+"Washington","NJ",2
+"Washingtonville","NY",3
+"Waterbury","CT",26
+"Waterloo","IA",45
+"Watermill","NY",3
+"Watertown","NY",12
+"Waterville","ME",4
+"Waukegan","IL",33
+"Wausau","WI",13
+"Wayne","NJ",2
+"Wells","ME",2
+"West Babylon","NY",8
+"West Covina","CA",3
+"West Hempstead","NY",8
+"West Hollywood","CA",71
+"West Islip","NY",1
+"West Lebanon","NH",6
+"West Los Angeles","CA",16
+"West New York","NJ",4
+"West Palm Beach","FL",124
+"West Park","NY",2
+"West Sacramento","CA",6
+"Westchester County","NY",1
+"Weston","MA",1
+"Westpark","NY",1
+"Westport","CT",33
+"Westtown","NY",6
+"Weymouth","MA",6
+"Wheatfield","NY",1
+"Wheaton","MD",2
+"Wheeling","WV",34
+"White Pine","TN",1
+"White Plains","NY",15
+"White River Junction","VT",6
+"Wichita","KS",111
+"Wichita Falls","TX",73
+"Wilcox","AZ",4
+"Wiliston","VT",1
+"Wilkes-Barre","PA",30
+"Willcox","AZ",1
+"Williamsburg","VA",11
+"Williamsport","PA",15
+"Williamstown","MA",11
+"Willimantic","CT",1
+"Willimsburg","VA",2
+"Willis","TX",2
+"Wilmington","CA",12
+"Wilmington","DE",85
+"Wilmington","NC",51
+"Winfield","KS",8
+"Winston-Salem","NC",34
+"Winter Park","FL",12
+"Wisconsin Rapids","WI",1
+"Wixom","MI",1
+"Wood River","IL",6
+"Woodbridge","NJ",13
+"Woodbury","NY",5
+"Woodland Hills","CA",5
+"Woodside","NY",5
+"Woodstock","NY",11
+"Woonsocket","RI",26
+"Wooster","OH",5
+"Worcester","MA",86
+"Wrightstown","NJ",2
+"Wrightsville","NC",1
+"Wrightsville Beach","NC",6
+"Wyandotte","MI",1
+"Yachats","OR",4
+"Yakima","WA",17
+"Yankton","SD",3
+"Ybor City","FL",6
+"Yonkers","NY",17
+"York","PA",53
+"Yorktown","NY",5
+"Yosemite","CA",12
+"Youngstown","OH",96
+"Ypsilanti","MI",13
+"Yreka","CA",2
+"Yuba City","CA",3
+"Yuma","AZ",79
+"Zebulon","KY",2
